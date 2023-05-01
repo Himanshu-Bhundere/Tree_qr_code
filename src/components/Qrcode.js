@@ -8,7 +8,7 @@ export default function Qrcode() {
       <div>
         <div>
           {data.map(function (object, i) {
-            const value = "http://localhost:3000/plant/" + `${object.id}`;
+            const value = `http://localhost:3000/plant/${object.id}`;
             return (
               <>
                 <h1>{object.name}</h1>
