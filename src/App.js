@@ -1,6 +1,7 @@
 import Qrcode from "./components/Qrcode";
 import "./App.css";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import Plant from "./components/Plant";
 
 function App() {
   return (
