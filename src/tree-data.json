@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Crown-of-thorns",
+        "botanical-name": "Euphorbia Milli"
+    },
+    {
+        "id": 2,
+        "name": "Chinese Evergreen",
+        "botanical-name": "Aglaonema commutatum"
+    },
+    {
+        "id": 3,
+        "name": "Ti",
+        "botanical-name": "Cordyline Terminalis"
+    },
+    {
+        "id": 4,
+        "name": "Areca Palm",
+        "botanical-name": "Dypsis Lutescens"
+    },
+    {
+        "id": 5,
+        "name": "Egyptian Star Cluster",
+        "botanical-name": "Pentas Lanceolata"
+    },
+    {
+        "id": 6,
+        "name": "Dwarf Umbrella",
+        "botanical-name": "Schefflera Umbrella"
+    },
+    {
+        "id": 7,
+        "name": "Dumb Canes",
+        "botanical-name": "Dieffenbachia"
+    },
+    {
+        "id": 8,
+        "name": "Longevity Spinach",
+        "botanical-name": "Gynura procumbens"
+    },
+    {
+        "id": 9,
+        "name": "Earth Star",
+        "botanical-name": "Cryptanthus Acaulis"
+    },
+    {
+        "id": 10,
+        "name": "Gold Dust Croton",
+        "botanical-name": "Codiaeum Variegatum"
+    },
+    {
+        "id": 11,
+        "name": "Lemon Cypress",
+        "botanical-name": "Cupressus macrocarpa"
+    },
+    {
+        "id": 12,
+        "name": "Shield Aralia",
+        "botanical-name": "Polyscias Scutellaria"
+    },
+    {
+        "id": 13,
+        "name": "Ming Aralia",
+        "botanical-name": "Polyscias Fruticosa"
+    },
+    {
+        "id": 14,
+        "name": "Petra Croton",
+        "botanical-name": "Codiaeum Variegatum"
+    },
+    {
+        "id": 15,
+        "name": "Philodendron",
+        "botanical-name": "Philodendron"
+    },
+    {
+        "id": 16,
+        "name": "Guava",
+        "botanical-name": "Psidium Guajava "
+    },
+    {
+        "id": 17,
+        "name": "Holy Basil",
+        "botanical-name": "Ocimum Tenuiflorum"
+    },
+    {
+        "id": 18,
+        "name": "Coleus",
+        "botanical-name": "Plectranthus Scutellarioides"
+    },
+    {
+        "id": 19,
+        "name": "Hibiscus",
+        "botanical-name": "Hibiscus"
+    },
+    {
+        "id": 20,
+        "name": "Periwinkle",
+        "botanical-name": "Periwinkle"
+    },
+    {
+        "id": 21,
+        "name": "Garden Croton",
+        "botanical-name": "Codiaeum Variegatum"
+    },
+    {
+        "id": 22,
+        "name": "Snake Plant",
+        "botanical-name": "Dracaena Trifasciata"
+    },
+    {
+        "id": 23,
+        "name": "Bush Lily",
+        "botanical-name": "Clivia Miniata"
+    },
+    {
+        "id": 24,
+        "name": "Tatsoi",
+        "botanical-name": "Brassica Rapa"
+    },
+    {
+        "id": 25,
+        "name": "Arabian Jasmine",
+        "botanical-name": "Jasminum Sambac"
+    },
+    {
+        "id": 26,
+        "name": "Indonesian Bay Leaf",
+        "botanical-name": "Syzygium Polyanthum"
+    },
+    {
+        "id": 27,
+        "name": "Caricature Plant",
+        "botanical-name": "Gratophyllum Pictum"
+    },
+    {
+        "id": 28,
+        "name": "Oleandar",
+        "botanical-name": "Nerium Oleander"
+    },
+    {
+        "id": 29,
+        "name": "Daisy",
+        "botanical-name": "Bellis Perennis"
+    },
+    {
+        "id": 30,
+        "name": "Song Of India",
+        "botanical-name": "Dracaena Reflexa"
+    },
+    {
+        "id": 31,
+        "name": "Red Jasmine",
+        "botanical-name": "Plumeria Rubra"
+    },
+    {
+        "id": 32,
+        "name": "Papaya",
+        "botanical-name": "Carica papaya"
+    },
+    {
+        "id": 33,
+        "name": "Mango",
+        "botanical-name": "Mangifera Indica"
+    },
+    {
+        "id": 34,
+        "name": "Peregrina",
+        "botanical-name": "Jatropha Integerrima"
+    },
+    {
+        "id": 35,
+        "name": "Painter's Palette",
+        "botanical-name": "Anthurium Andraeanum"
+    },
+    {
+        "id": 36,
+        "name": "Dinner Plate Aralia",
+        "botanical-name": "Polyscias Balfouriana"
+    }
+]
