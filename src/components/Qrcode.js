@@ -8,12 +8,17 @@ export default function Qrcode() {
       <div>
         <div>
           {data.map(function (object, i) {
+            const value = "http://localhost:3000/plant/" + `${object.id}`;
             return (
-              <QRCode
-                value="https://tree-tag-nssxcrce.netlify.app/"
-                logoImage={require("../nss-logo.png")}
-                logoWidth={80}
-              />
+              <>
+                <h1>{object.name}</h1>
+                <QRCode
+                  value={value}
+                  logoImage={require("../nss-logo.png")}
+                  logoWidth={40}
+                  id={object.id}
+                />
+              </>
             );
           })}
         </div>
