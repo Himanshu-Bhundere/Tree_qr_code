@@ -6,7 +6,7 @@ let data = require("../tree-data.json");
 export default function Plant() {
   const { id } = useParams();
   const filterData = data.find((obj) => {
-    return obj.id === id;
+    return obj.id == id;
   });
 
   function callData() {
