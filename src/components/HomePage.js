@@ -20,37 +20,37 @@ export default function HomePage() {
       </div>
       <div className="location">
         <div className="stairs" style={{ backgroundColor: "red" }}>
-          <h4
-            onClick={() => {
-              if (document.getElementById("stairs").style.display === "none")
-                document.getElementById("stairs").style.display = "block";
-              else document.getElementById("stairs").style.display = "none";
-            }}
+          <h4 onClick={
+            () => {
+              if(document.getElementById("stairs").style.display === "none")
+                document.getElementById("stairs").style.display = 'block';
+              else
+                document.getElementById("stairs").style.display = "none";
+            }
+          }
           >
             Stairs
           </h4>
         </div>
         <div className="stairs" style={{ backgroundColor: "red" }}>
-          <h4
-            onClick={() => {
-              if (document.getElementById("canteen").style.display === "none")
-                document.getElementById("canteen").style.display = "block";
-              else document.getElementById("canteen").style.display = "none";
-            }}
-          >
-            Canteen
-          </h4>
+          <h4 onClick={
+            () => {
+              if(document.getElementById("canteen").style.display === "none")
+                document.getElementById("canteen").style.display = 'block';
+              else
+                document.getElementById("canteen").style.display = "none";
+            }
+          }>Canteen</h4>
         </div>
         <div className="stairs" style={{ backgroundColor: "red" }}>
-          <h4
-            onClick={() => {
-              if (document.getElementById("church").style.display === "none")
-                document.getElementById("church").style.display = "block";
-              else document.getElementById("church").style.display = "none";
-            }}
-          >
-            Church
-          </h4>
+        <h4 onClick={
+            () => {
+              if(document.getElementById("church").style.display === "none")
+                document.getElementById("church").style.display = 'block';
+              else
+                document.getElementById("church").style.display = "none";
+            }
+          }>Church</h4>
         </div>
       </div>
       <p id="stairs">
