@@ -1,0 +1,29 @@
+
+.about_us{
+    border-radius: 2rem;
+    margin: 1rem;
+    border: #282c34 solid 4px;
+  }
+  
+  .location{
+    display: flex;
+    align-items: center;
+    gap: 7rem;
+    padding: 2rem;
+  }
+  
+  .location div{
+    width: 33%;
+  }
+  
+  .location div p{
+    display: none;
+  }
+  
+  .location div p:hover{
+    display: block;
+  }
+
+  p{
+    display: none;
+  }
