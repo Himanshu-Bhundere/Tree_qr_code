@@ -11,13 +11,22 @@ export default function Qrcode() {
             const value = `https://tree-tag-nssxcrce.netlify.app/plant/${object.id}`;
             return (
               <>
-                <h1>{object.name}</h1>
-                <QRCode
-                  value={value}
-                  logoImage={require("../nss-logo.png")}
-                  logoWidth={40}
-                  id={object.id}
-                />
+                <div
+                  style={{
+                    display: "flex",
+                    justifyContent: "center",
+                    flexDirection: "column",
+                    alignItems: "center",
+                  }}
+                >
+                  <h1>{object.name}</h1>
+                  <QRCode
+                    value={value}
+                    logoImage={require("../nss-logo.png")}
+                    logoWidth={40}
+                    id={object.id}
+                  />
+                </div>
               </>
             );
           })}
