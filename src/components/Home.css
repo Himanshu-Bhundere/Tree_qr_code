@@ -4,11 +4,15 @@
     margin: 1rem;
     border: #282c34 solid 4px;
   }
+
+  .location h4 svg{
+    position: relative;
+  }
   
   .location{
     display: flex;
     align-items: center;
-    gap: 7rem;
+    gap: 1rem;
     padding: 2rem;
   }
   
