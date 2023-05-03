@@ -1,5 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
+import { useLottie } from "lottie-react";
 
 let data = require("../tree-data.json");
 
@@ -9,13 +10,9 @@ export default function Plant() {
     return obj.id == id;
   });
 
-  function callData() {
-    console.log(filterData);
-  }
-
   return (
     <>
-      <div onClick={callData}>
+      <div>
         {id} - {filterData.name}
       </div>
     </>

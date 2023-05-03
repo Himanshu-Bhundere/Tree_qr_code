@@ -1,182 +1,254 @@
 [
-    {
-        "id": 1,
-        "name": "Crown-of-thorns",
-        "botanical-name": "Euphorbia Milli"
-    },
-    {
-        "id": 2,
-        "name": "Chinese Evergreen",
-        "botanical-name": "Aglaonema commutatum"
-    },
-    {
-        "id": 3,
-        "name": "Ti",
-        "botanical-name": "Cordyline Terminalis"
-    },
-    {
-        "id": 4,
-        "name": "Areca Palm",
-        "botanical-name": "Dypsis Lutescens"
-    },
-    {
-        "id": 5,
-        "name": "Egyptian Star Cluster",
-        "botanical-name": "Pentas Lanceolata"
-    },
-    {
-        "id": 6,
-        "name": "Dwarf Umbrella",
-        "botanical-name": "Schefflera Umbrella"
-    },
-    {
-        "id": 7,
-        "name": "Dumb Canes",
-        "botanical-name": "Dieffenbachia"
-    },
-    {
-        "id": 8,
-        "name": "Longevity Spinach",
-        "botanical-name": "Gynura procumbens"
-    },
-    {
-        "id": 9,
-        "name": "Earth Star",
-        "botanical-name": "Cryptanthus Acaulis"
-    },
-    {
-        "id": 10,
-        "name": "Gold Dust Croton",
-        "botanical-name": "Codiaeum Variegatum"
-    },
-    {
-        "id": 11,
-        "name": "Lemon Cypress",
-        "botanical-name": "Cupressus macrocarpa"
-    },
-    {
-        "id": 12,
-        "name": "Shield Aralia",
-        "botanical-name": "Polyscias Scutellaria"
-    },
-    {
-        "id": 13,
-        "name": "Ming Aralia",
-        "botanical-name": "Polyscias Fruticosa"
-    },
-    {
-        "id": 14,
-        "name": "Petra Croton",
-        "botanical-name": "Codiaeum Variegatum"
-    },
-    {
-        "id": 15,
-        "name": "Philodendron",
-        "botanical-name": "Philodendron"
-    },
-    {
-        "id": 16,
-        "name": "Guava",
-        "botanical-name": "Psidium Guajava "
-    },
-    {
-        "id": 17,
-        "name": "Holy Basil",
-        "botanical-name": "Ocimum Tenuiflorum"
-    },
-    {
-        "id": 18,
-        "name": "Coleus",
-        "botanical-name": "Plectranthus Scutellarioides"
-    },
-    {
-        "id": 19,
-        "name": "Hibiscus",
-        "botanical-name": "Hibiscus"
-    },
-    {
-        "id": 20,
-        "name": "Periwinkle",
-        "botanical-name": "Periwinkle"
-    },
-    {
-        "id": 21,
-        "name": "Garden Croton",
-        "botanical-name": "Codiaeum Variegatum"
-    },
-    {
-        "id": 22,
-        "name": "Snake Plant",
-        "botanical-name": "Dracaena Trifasciata"
-    },
-    {
-        "id": 23,
-        "name": "Bush Lily",
-        "botanical-name": "Clivia Miniata"
-    },
-    {
-        "id": 24,
-        "name": "Tatsoi",
-        "botanical-name": "Brassica Rapa"
-    },
-    {
-        "id": 25,
-        "name": "Arabian Jasmine",
-        "botanical-name": "Jasminum Sambac"
-    },
-    {
-        "id": 26,
-        "name": "Indonesian Bay Leaf",
-        "botanical-name": "Syzygium Polyanthum"
-    },
-    {
-        "id": 27,
-        "name": "Caricature Plant",
-        "botanical-name": "Gratophyllum Pictum"
-    },
-    {
-        "id": 28,
-        "name": "Oleandar",
-        "botanical-name": "Nerium Oleander"
-    },
-    {
-        "id": 29,
-        "name": "Daisy",
-        "botanical-name": "Bellis Perennis"
-    },
-    {
-        "id": 30,
-        "name": "Song Of India",
-        "botanical-name": "Dracaena Reflexa"
-    },
-    {
-        "id": 31,
-        "name": "Red Jasmine",
-        "botanical-name": "Plumeria Rubra"
-    },
-    {
-        "id": 32,
-        "name": "Papaya",
-        "botanical-name": "Carica papaya"
-    },
-    {
-        "id": 33,
-        "name": "Mango",
-        "botanical-name": "Mangifera Indica"
-    },
-    {
-        "id": 34,
-        "name": "Peregrina",
-        "botanical-name": "Jatropha Integerrima"
-    },
-    {
-        "id": 35,
-        "name": "Painter's Palette",
-        "botanical-name": "Anthurium Andraeanum"
-    },
-    {
-        "id": 36,
-        "name": "Dinner Plate Aralia",
-        "botanical-name": "Polyscias Balfouriana"
-    }
+  {
+    "id": 1,
+    "name": "Crown-of-thorns",
+    "botanical-name": "Euphorbia Milli",
+    "location": ["Stairs"],
+    "info": "Crown of thorns is a hardy perennial with stout gray thorns and oval leaves that drop as they age. The sprawling, branching, vinelike stems can attain lengths of more than two metres (seven feet), though potted plants are considerably smaller. The small inconspicuous flowers are borne in paired clusters and are surrounded by two showy light red bracts (leaflike structures attached just below flowers). Various forms are available with yellow or deep red bracts. The white milky sap is poisonous and can cause skin and eye irritation."
+  },
+  {
+    "id": 2,
+    "name": "Chinese Evergreen",
+    "botanical-name": "Aglaonema commutatum",
+    "location": ["Stairs"],
+    "info": "Chinese evergreen is not a needled conifer, but rather a tropical perennial available in several cultivars that make excellent houseplants. They all have large, narrow, and glossy oval leaves on short stems, and flowers (on older plants) that bloom in spring or summer. The Chinese evergreen is one of the most popular houseplants and its color variations—from dark green and silver to red—add personality to your home's decor."
+  },
+  {
+    "id": 3,
+    "name": "Ti",
+    "botanical-name": "Cordyline Terminalis",
+    "location": ["Stairs", "Old Canteen", "Basketball Court", "Church"],
+    "info": "Ti is a palm-like plant growing up to 4.5 metres (15 feet) tall with an attractive fan-like and spirally arranged cluster of broadly elongated leaves at the tip of the slender trunk. The leaves range from red to green and variegated forms. It is a woody plant with leaves 30–60 centimetres (12–24 inches) (rarely 75 cm or 30 in) long and 5–10 cm (2–4 in) wide at the top of a woody stem. It produces 40–60 cm (16–24 in) long panicles of small scented yellowish to red flowers that mature into red berries."
+  },
+  {
+    "id": 4,
+    "name": "Areca Palm",
+    "botanical-name": "Dypsis Lutescens",
+    "location": ["Stairs", "Physics Lab", "Church"],
+    "info": "An Areca Palm plant is a tropical indoor plant that is popular for its lush, green foliage and air-purifying properties. It is also known as Dypsis lutescens.Once an endangered species, the Areca Palm is a staple in Indian spaces. One of the most undervalued plants in the indoor plant category. This excellent air purifier is pet friendly and easy to grow. Its delicate leaves/fronds grow outwards in a curved manner and add a tropical feel to any space and can adapt to a variety of growing conditions."
+  },
+  {
+    "id": 5,
+    "name": "Egyptian Star Cluster",
+    "botanical-name": "Pentas Lanceolata",
+    "location": ["Stairs"],
+    "info": "Pentas are a tropical import, and grow wild in East Africa. Plants are just the right size for the middle of the summer border: the average height of pentas is 24–36 inches, but plants that perennialize in frost-free zones may reach four feet tall or greater.Blossom colors include pink, purple, white, and red. Penta plants can stay in bloom continuously under ideal growing conditions, so it's worth a bit of weekly care to keep the plants in optimum condition."
+  },
+  {
+    "id": 6,
+    "name": "Dwarf Umbrella",
+    "botanical-name": "Schefflera Umbrella",
+    "location": ["Stairs", "School Hall", "Old Canteen"],
+    "info": "The Umbrella plant, Schefflera Arboricola, also known as the Dwarf umbrella tree is a popular indoor plant due to its ease of care and attractive appearance.They can grow with one trunk, but most likely with two or more and multiple branches displaying palmate compound or whorled leaves (like fingers coming from the stalk) with four to twelve leaflets or more, giving it an umbrella spoke appearance. The glossy leaflets are near oval-shaped, a few inches long, and a couple of inches wide (depending on the age and size of the tree)."
+  },
+  {
+    "id": 7,
+    "name": "Dumb Canes",
+    "botanical-name": "Dieffenbachia",
+    "location": ["Stairs", "Old Canteen", "Church"],
+    "info": "The Dumb Cane plant is a strong species that will thrive in any light conditions other than direct sunlight. It’s easy to care for style and resilience to neglect to make it a wonderful house plant.. .Each plant features leaves that are yellow near their vein, abruptly turning a dark green toward the edge of the leaf. This transition is random, even within the same leaf, creating ribbons and spots of yellow and green along the leaf’s body."
+  },
+  {
+    "id": 8,
+    "name": "Longevity Spinach",
+    "botanical-name": "Gynura procumbens",
+    "location": ["Stairs"],
+    "info": "Longevity spinach, also known as Gynura procumbens, is growing in popularity thanks to its benefits as green, leafy spinach! It is a veggie plant famous worldwide but primarily found in Africa, China, and Southeast Asia. It would thrive in areas that have tropical climates, being native in terrestrial, warm locations and habitats."
+  },
+  {
+    "id": 9,
+    "name": "Earth Star",
+    "botanical-name": "Cryptanthus Acaulis",
+    "location": ["Stairs"],
+    "info": "Cryptanthus are part of the bromeliad plant family and native to Brazil. Despite the flat shape, these plants can reach up to two feet across.The leaves are wavy and feature a striped pattern.They are typically available in various shades of red, green, white, and pink.The earth star bromeliad can get quite big. When grown outdoors in ideal conditions, it can reach up to two feet across."
+  },
+  {
+    "id": 10,
+    "name": "Gold Dust Croton",
+    "botanical-name": "Codiaeum Variegatum",
+    "location": ["Stairs", "School Hall"],
+    "info": "The Gold Dust Croton is known and loved for its bright and beautiful foliage. Its green leaves appear to have been dusted by gold, hence its name. It is a slow grower and does well when grouped together. This plant usually grows to about 3 feet high, making it easy to add to any space! The oil from the seeds is used to make medicine."
+  },
+  {
+    "id": 11,
+    "name": "Lemon Cypress",
+    "botanical-name": "Cupressus macrocarpa",
+    "location": ["School Hall"],
+    "info": ""
+  },
+  {
+    "id": 12,
+    "name": "Shield Aralia",
+    "botanical-name": "Polyscias Scutellaria",
+    "location": ["School Hall"],
+    "info": ""
+  },
+  {
+    "id": 13,
+    "name": "Ming Aralia",
+    "botanical-name": "Polyscias Fruticosa",
+    "location": ["School Hall"],
+    "info": ""
+  },
+  {
+    "id": 14,
+    "name": "Petra Croton",
+    "botanical-name": "Codiaeum Variegatum",
+    "location": ["School Hall"],
+    "info": ""
+  },
+  {
+    "id": 15,
+    "name": "Philodendron",
+    "botanical-name": "Philodendron",
+    "location": ["Physics Lab"],
+    "info": ""
+  },
+  {
+    "id": 16,
+    "name": "Guava",
+    "botanical-name": "Psidium Guajava ",
+    "location": ["Physics Lab"],
+    "info": ""
+  },
+  {
+    "id": 17,
+    "name": "Holy Basil",
+    "botanical-name": "Ocimum Tenuiflorum",
+    "location": ["Physics Lab"],
+    "info": ""
+  },
+  {
+    "id": 18,
+    "name": "Coleus",
+    "botanical-name": "Plectranthus Scutellarioides",
+    "location": ["Old Canteen", "Church"],
+    "info": ""
+  },
+  {
+    "id": 19,
+    "name": "Hibiscus",
+    "botanical-name": "Hibiscus",
+    "location": ["Old Canteen", "Basketball Court", "Church"],
+    "info": ""
+  },
+  {
+    "id": 20,
+    "name": "Periwinkle",
+    "botanical-name": "Periwinkle",
+    "location": ["Old Canteen"],
+    "info": ""
+  },
+  {
+    "id": 21,
+    "name": "Garden Croton",
+    "botanical-name": "Codiaeum Variegatum",
+    "location": ["Old Canteen", "Church"],
+    "info": ""
+  },
+  {
+    "id": 22,
+    "name": "Snake Plant",
+    "botanical-name": "Dracaena Trifasciata",
+    "location": ["Old Canteen"],
+    "info": ""
+  },
+  {
+    "id": 23,
+    "name": "Bush Lily",
+    "botanical-name": "Clivia Miniata",
+    "location": ["Old Canteen"],
+    "info": ""
+  },
+  {
+    "id": 24,
+    "name": "Tatsoi",
+    "botanical-name": "Brassica Rapa",
+    "location": ["Old Canteen"],
+    "info": ""
+  },
+  {
+    "id": 25,
+    "name": "Arabian Jasmine",
+    "botanical-name": "Jasminum Sambac",
+    "location": ["Old Canteen", "Church"],
+    "info": ""
+  },
+  {
+    "id": 26,
+    "name": "Indonesian Bay Leaf",
+    "botanical-name": "Syzygium Polyanthum",
+    "location": ["Old Canteen"],
+    "info": ""
+  },
+  {
+    "id": 27,
+    "name": "Caricature Plant",
+    "botanical-name": "Gratophyllum Pictum",
+    "location": ["Basketball Court"],
+    "info": ""
+  },
+  {
+    "id": 28,
+    "name": "Oleandar",
+    "botanical-name": "Nerium Oleander",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 29,
+    "name": "Daisy",
+    "botanical-name": "Bellis Perennis",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 30,
+    "name": "Song Of India",
+    "botanical-name": "Dracaena Reflexa",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 31,
+    "name": "Red Jasmine",
+    "botanical-name": "Plumeria Rubra",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 32,
+    "name": "Papaya",
+    "botanical-name": "Carica papaya",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 33,
+    "name": "Mango",
+    "botanical-name": "Mangifera Indica",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 34,
+    "name": "Peregrina",
+    "botanical-name": "Jatropha Integerrima",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 35,
+    "name": "Painter's Palette",
+    "botanical-name": "Anthurium Andraeanum",
+    "location": ["Church"],
+    "info": ""
+  },
+  {
+    "id": 36,
+    "name": "Dinner Plate Aralia",
+    "botanical-name": "Polyscias Balfouriana",
+    "location": ["School Hall"],
+    "info": ""
+  }
 ]
