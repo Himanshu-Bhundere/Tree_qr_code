@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <div className="toolbar">
           <div className="toolbarGoto">
-            <h1 style={{ fontFamily: "Rubik" }}>
+            <h1 style={{ fontFamily: "Rubik", color: "purple" }}>
               <a style={{ textDecoration: "none" }} href="/">
                 Home
               </a>

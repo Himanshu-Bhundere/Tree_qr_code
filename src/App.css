@@ -5,7 +5,10 @@
 a:active {
   color: antiquewhite;
 }
+a {
+color:inherit;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -16,6 +19,8 @@ a:active {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+.nav
 
 .App-header {
   background-color: #282c34;
