@@ -8,7 +8,7 @@ export default function Qrcode() {
       <div>
         <div>
           {data.map(function (object, i) {
-            const value = `https://tree-tag-nssxcrce.netlify.app/plant/${object.id}`;
+            const value = `https://tree-tag-nss-crce.netlify.app/plant/${object.id}`;
             return (
               <>
                 <div
