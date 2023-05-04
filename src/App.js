@@ -9,10 +9,22 @@ function App() {
     <>
       <div className="App">
         <div className="toolbar">
-          <div id="toolbar">Tree - Tag</div> 
+          <div className="toolbarGoto">
+            <h1 style={{ fontFamily: "Rubik" }}>
+              <a style={{ textDecoration: "none" }} href="/">
+                Home
+              </a>
+            </h1>
+          </div>
+          <div id="toolbarHead">
+            <h1 className="navHead text-flicker-in-glow">Tree - Tag</h1>
+          </div>
+          <div id="toolbarLogo">
+            <img src={require("./nss-logo.png")} alt="" width={70} />
+          </div>
         </div>
         <BrowserRouter>
-        <Routes>
+          <Routes>
             <Route path="/" element={<HomePage />} />
           </Routes>
           <Routes>
