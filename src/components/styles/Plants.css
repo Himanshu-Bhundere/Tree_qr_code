@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(204, 239, 167);
+    overflow-x: hidden;
+}
+
+.font {
+    font-family: "Rubik";
+}
+
+.firstAni {
+    /* margin-right: 55%; */
+}
+.heading {
+    font-family: 'Lobster', cursive;
+}
+
+.info {
+    margin: 0 100px;
+    margin-top: 60px;
+}
+
+hr {
+    color:#ea1a97;  
+    border: 2px solid; 
+}
+
+.loc{
+    margin-top: 60px;
+}
+
+@media (min-width:300px) and (max-width: 800px) {
+    .firstAni {
+        margin-left: 30%;
+        margin-right: 60%;
+        display: flex;
+        justify-content: center;
+    }
+}
+@media (min-width:800px) {
+    .firstAni {
+        margin-left: 45%;
+        /* margin-right: 60%; */
+        display: flex;
+        justify-content: center;
+    }
+}
