@@ -92,7 +92,7 @@ export default function Plant() {
             </Player>
           </div>
           <div>
-            <h1 className="heading loc">Other Locations(On Campus)</h1>
+            <h1 className="heading loc">Where Else To Find On Campus</h1>
             <ul style={{ listStyleType: "none" }}>
               <div>
                 {renderList}

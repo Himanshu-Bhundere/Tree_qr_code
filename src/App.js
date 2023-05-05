@@ -20,7 +20,9 @@ function App() {
             <h1 className="navHead text-flicker-in-glow">Tree - Tag</h1>
           </div>
           <div id="toolbarLogo">
-            <img src={require("./nss-logo.png")} alt="" width={70} />
+            <a href="https://nsscrce.org">
+              <img src={require("./nss-logo.png")} alt="" width={70} />
+            </a>
           </div>
         </div>
         <BrowserRouter>
