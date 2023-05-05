@@ -39,14 +39,14 @@ color:inherit;
 
 .toolbar{
   padding: 2rem;
-  background-color: rgb(98, 243, 98);
+  background-color: rgb(145, 244, 92);
   display: flex;
   justify-content: space-between;
 }
 
 .navHead {
   font-family: 'Dancing Script', cursive;
-  color: aliceblue;
+  color: rgb(151, 85, 242);
 }
 
 .text-flicker-in-glow {
