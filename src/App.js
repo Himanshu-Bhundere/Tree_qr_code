@@ -10,18 +10,27 @@ function App() {
       <div className="App">
         <div className="toolbar">
           <div className="toolbarGoto">
-            <h1 style={{ fontFamily: "Rubik", color: "purple" }}>
-              <a style={{ textDecoration: "none" }} href="/">
-                Home
-              </a>
-            </h1>
+            <a href="https://nsscrce.org">
+              <img src={require("./nss-logo.png")} alt="" width={70} />
+            </a>
+            <a
+              href="http://frcrce.ac.in/"
+              style={{ position: "relative", left: "2rem", bottom: "0.8rem" }}
+            >
+              <img src={require("./crce_logo.png")} alt="" width={150} />
+            </a>
           </div>
           <div id="toolbarHead">
             <h1 className="navHead text-flicker-in-glow">Tree - Tag</h1>
           </div>
           <div id="toolbarLogo">
-            <a href="https://nsscrce.org">
-              <img src={require("./nss-logo.png")} alt="" width={70} />
+            <a style={{ textDecoration: "none" }} href="/">
+              <span
+                class="material-symbols-outlined"
+                style={{ top: "1.3rem", left: 0, fontSize : "2.5rem" }}
+              >
+                home
+              </span>
             </a>
           </div>
         </div>
